@@ -5,7 +5,7 @@ Created on Tue Dec  6 22:45:24 2022
 @author: HSL
 """
 
-N = 100 * 4
+N = 400
 K = 20
 
 traffic = 500
@@ -36,7 +36,7 @@ miuW3 = 915083
 # miuW2 = 304367
 # miuW3 = 312614
 
-S = 12e13
+S = 11e13
 
 Sf = 20
 Se = 15
@@ -48,12 +48,8 @@ miuL3 = 124.997 * 0.053
 
 pA = 0.2
 
-# n_iterations_cost = 7000
-# n_iterations = 5000*4
-
-n_iterations_cost = 100
-n_iterations = 2
+n_iterations_cost = 7000
+n_iterations = 5000*4
 
 delay_threshold = 0.003
-# max_upper = 70
-max_upper = 10
+max_upper = 70
