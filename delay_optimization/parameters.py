@@ -5,7 +5,7 @@ Created on Tue Dec  6 22:45:24 2022
 @author: HSL
 """
 
-N = 100 * 4
+N = 400
 K = 20
 
 traffic = 500
